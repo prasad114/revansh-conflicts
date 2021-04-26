@@ -1,13 +1,15 @@
 
-this is prasad
+this is a ajay
+he is a bad boy
 
 
 
 
-e pridio.h>
-int main() {
-   // printf() displays the string inside quotation
-   printf("Hello, World!");
-   return 0;
-}
->>>>>>> prasad
+
+
+
+
+
+
+
+
